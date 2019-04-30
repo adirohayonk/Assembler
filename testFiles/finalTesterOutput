@@ -1,0 +1,59 @@
+line:4, Error: wrong element type, element:§håý 
+line:7, Error: wrong element type, element:a 
+line:8, Error: wrong element type, element:@ 
+line:9, Error: wrong element type, element:a 
+line:11, Error: wrong element type, element:1 2 
+line:12, Error: too Much Commas 
+line:13, Error: too Much Commas 
+line:15, Error: only integer numbers allowed, element:1.2 
+line:18, Error: empty string provided 
+line:20, Error: missing quotes at end of string, string:"abcd 
+line:21, Error: missing quotes at start of string, string:abcd" 
+line:22, Error: missing quotes at end of string, string:bye 
+line:26, wrong command no such command
+line:29, Error: wrong number of elements for matrix 
+line:30, Error: wrong number of elements for matrix 
+line:31, Error: wrong data for matrix, data:1.2,2.3,4,5 
+line:34,ERROR LABEL BEFORE EXTERN IS FORBBIDEN
+line:35,ERROR LABEL BEFORE EXTERN IS FORBBIDEN
+line:35, Error: wrong label name, in label:-%;wia 
+line:36,ERROR LABEL BEFORE EXTERN IS FORBBIDEN
+line:39, wrong command no such command
+line:40, wrong command no such command
+line:41, wrong command no such command
+line:42, wrong command no such command
+line:43, wrong command no such command
+line:44, wrong command no such command
+line:45, wrong command no such command
+line:48, Error: wrong parameter type:#1 ,in command:mov 
+line:49, Error: wrong parameter type:#-6 ,in command:mov 
+line:50, Error: wrong parameter type:#-7 ,in command:mov 
+line:51, Error: wrong parameter type:#4 ,in command:mov 
+line:52, Error: first parameter is missing, in command:mov
+line:53, Error: second parameter is missing, in command:mov
+line:54, Error: wrong parameter type:,r2 ,in command:mov 
+line:55, Error: second parameter is missing, in command:mov
+line:58, Error: wrong parameter type:#1 ,in command:add 
+line:59, Error: wrong parameter type:#-6 ,in command:add 
+line:60, Error: wrong parameter type:#-7 ,in command:add 
+line:61, Error: wrong parameter type:#4 ,in command:add 
+line:62, Error: first parameter is missing, in command:add
+line:63, Error: second parameter is missing, in command:add
+line:64, Error: wrong parameter type:,r2 ,in command:add 
+line:65, Error: second parameter is missing, in command:add
+line:68, Error: wrong parameter type:#1 ,in command:sub 
+line:69, Error: wrong parameter type:#-6 ,in command:sub 
+line:70, Error: wrong parameter type:#-7 ,in command:sub 
+line:71, Error: wrong parameter type:#4 ,in command:sub 
+line:72, Error: first parameter is missing, in command:sub
+line:73, Error: second parameter is missing, in command:sub
+line:74, Error: wrong parameter type:,r2 ,in command:sub 
+line:75, Error: second parameter is missing, in command:sub
+line:78, Error: wrong parameter type:# ,in command:cmp 
+line:79, Error: second parameter is missing, in command:cmp
+line:82, Error: first parameter is missing, in command:cmp
+line:83, Error: second parameter is missing, in command:cmp
+line:84, Error: wrong parameter type:,r2 ,in command:cmp 
+line:85, Error: second parameter is missing, in command:cmp
+line:89, Error: should not have parameters, in command:rts 
+line:90, Error: should not have parameters, in command:rts 
